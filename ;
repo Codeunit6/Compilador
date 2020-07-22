@@ -1,0 +1,12 @@
+entero valorUno = 3 ;
+entero valorDos = 0 ;
+entero resultado = 1 ;
+entero numeroCiclo = 10 ;
+hacer {
+	escribir ' si ' ; 
+	escribir ' hola ' ;
+	valorDos = valorUno  / 1 ;
+	resultado = resultado + 1 ;
+	escribir valorDos ;
+	escribir resultado ;
+} mientras ( resultado < numeroCiclo and va ;
