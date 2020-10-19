@@ -101,7 +101,7 @@ Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones
 __
 
 * **Damián Mejía** - *Trabajo* - [Damian Mejía](https://github.com/spek13/Compilador)
-* **OswaldoMP** - *Mentor * - [Damian Mejía](https://github.com/OswaldoMP)
+* **OswaldoMP** - *Mentor * - [OswaldoMP](https://github.com/OswaldoMP)
 
 
 
