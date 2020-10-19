@@ -122,6 +122,6 @@ Software libre
 
 ---
 ⌨️ con ❤️ por [spek13](https://github.com/spek13)😊
-⌨️ con ❤️ por [OswaldoMP](https://github.com/OswaldoMP)😊
+Y [OswaldoMP](https://github.com/OswaldoMP)😊
 
 
