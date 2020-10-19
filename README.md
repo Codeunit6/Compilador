@@ -1,3 +1,4 @@
+
 # COMPILADOR
 
 
@@ -33,8 +34,6 @@ Instalar NetBeans
 
 ## Ejecutando las pruebas ⚙️
 
-_Ejecutar las pruebas automatizadas para este sistema_
-
 
 ```
 Datos de entrada  
@@ -49,10 +48,25 @@ hacer {
  
 } mientras ( hola < 5 ) ; 
 ```
+## SALIDA 📦
 
-### Y las pruebas de estilo ⌨️
 
-_Explica que verifican estas pruebas y por qué_
+
+```
+Salida  
+escribir hola mundo  
+2 
+escribir hola mundo  
+3 
+escribir hola mundo  
+4 
+escribir hola mundo  
+5 
+ 
+```
+### Pruebas  ⌨️
+
+
 
 ```
 entero valorUno = 3 ;
@@ -69,31 +83,12 @@ hacer {
 } mientras ( resultado < numeroCiclo and valorUno == 3 ) ;
 ```
 
-## SALIDA 📦
 
-_Agrega notas adicionales sobre como hacer deploy_
 
-```
-Salida  
-escribir hola mundo  
-2 
-escribir hola mundo  
-3 
-escribir hola mundo  
-4 
-escribir hola mundo  
-5 
- 
-```
 
 
 ## Construido con 🛠️
-
-_Menciona las herramientas que utilizaste para crear tu proyecto_
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
+Java 
 
 
 
@@ -106,12 +101,14 @@ Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones
 __
 
 * **Damián Mejía** - *Trabajo* - [Damian Mejía](https://github.com/spek13/Compilador)
+* **OswaldoMP** - *Mentor * - [Damian Mejía](https://github.com/OswaldoMP)
+
 
 
 También puedes mirar la lista de todos los [contribuyentes](https://github.com/spek13/Compilador/contributors) quíenes han participado en este proyecto. 
 
 ## Licencia 📄
-
+Software libre
 
 
 ## Expresiones de Gratitud 🎁
@@ -125,5 +122,6 @@ También puedes mirar la lista de todos los [contribuyentes](https://github.com/
 
 ---
 ⌨️ con ❤️ por [spek13](https://github.com/spek13)😊
+⌨️ con ❤️ por [OswaldoMP](https://github.com/OswaldoMP)😊
 
 
